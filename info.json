@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "867980d5b51e888216c5c8560d61ce62d43d19ea",
+    "author": "Elham Ebrahimi <eebrahimi.bio@gmail.com>",
+    "time": "2026-11-16T08:59:03Z",
+    "files": 10,
+    "merge": false,
+    "message": "Update README and rebuild pkgdown website\n"
+  },
+  "repo": "https://github.com/spatialecology/camtrapReport",
+  "pkg": "camtrapReport",
+  "time": "2026-11-16T10:13:19Z"
+}
