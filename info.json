@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "88f5e07681ae6769a6d4b37802d23ce47082eee4",
+    "author": "Elham Ebrahimi <eebrahimi.bio@gmail.com>",
+    "time": "2026-11-24T14:30:34Z",
+    "files": 2,
+    "merge": false,
+    "message": "Fix CodeMeta metadata consistency (refs #29)\n"
+  },
+  "repo": "https://github.com/spatialecology/camtrapReport",
+  "pkg": "camtrapReport",
+  "time": "2026-11-24T14:42:09Z"
+}
